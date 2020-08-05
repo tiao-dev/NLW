@@ -4,6 +4,9 @@
 
 #page-landing {
     background: var(--color-primary);
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 #page-landing #container {
